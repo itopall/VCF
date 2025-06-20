@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Soyadınız;Adınız;;;
+FN:Adınız Soyadınız
+ORG:Şirket / Kurum (opsiyonel)
+TITLE:Ünvan (opsiyonel)
+TEL;TYPE=CELL:+90xxxxxxxxxx
+EMAIL;TYPE=INTERNET:mail@example.com
+URL:https://example.com   ;  # web siteniz (opsiyonel)
+ADR;TYPE=WORK:;;Adres satırı;İl;Bölge;Posta Kodu;Türkiye
+END:VCARD
